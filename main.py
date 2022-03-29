@@ -1,0 +1,1 @@
+##No pude descargar ni utilizar correctaemente jupyter, (lo envie por correo)
